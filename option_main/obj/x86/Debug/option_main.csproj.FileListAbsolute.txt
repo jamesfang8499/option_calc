@@ -1,0 +1,15 @@
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\impvol.Form11.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\bsmethod.Form22.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\binomethod.Form33.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\greeks.Form44.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\delta_gamma.Form55.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\option_main.Properties.Resources.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\option_main.csproj.GenerateResource.Cache
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\option_main.Form1.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\bin\Debug\option_main.exe
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\bin\Debug\option_main.pdb
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\option_main.exe
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\option_main.pdb
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\bin\Debug\zh-CN\option_main.resources.dll
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\binomethod.Form33.zh-CN.resources
+E:\Users\ASUS\Documents\Visual Studio 2010\Projects\option_main\option_main\obj\x86\Debug\zh-CN\option_main.resources.dll
